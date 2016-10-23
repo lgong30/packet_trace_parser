@@ -1,0 +1,11 @@
+# Ignore All
+*
+
+# Unignore all with extension
+!*.*
+
+# Ignore .o
+*.o
+*.15
+*.FULL
+.idea
